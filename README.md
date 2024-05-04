@@ -11,3 +11,4 @@ AoiKazama/AoiKazama is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![:moecounter](https://count.getloli.com/get/@:geniac)
+![](https://komarev.com/ghpvc/?username=AoiKazama&color=yellow)
